@@ -232,10 +232,10 @@ CIPS 是人民币跨境支付系统，为境内外参与者提供跨境人民币
 
 | 概念 | 含义 |
 |---|---|
-| 非账户行 Non-depository Correspondent | 不互设账户，只注明各自账户行及账号 |
+| 非账户行 Non-depository Correspondent | 不互设账户，只注明某种货币的各自账户行及账号 |
 | 账户行 Depository Bank | 代理行之间开立账户；账户行一定是代理行，但代理行不一定是账户行 |
-| 往户账 Nostro Account / Due from Account | 本国银行在境外银行开立的账户，从本国银行角度看是“我方在外账户” |
-| 来户账 Vostro Account / Due to Account | 境外银行在本国银行开立的账户，从本国银行角度看是“别人存在我这里的账户” |
+| 往户账 Nostro Account / Due from Account | 本国银行在境外银行开立的账户，从本国银行角度看是“我方在外账户”，往账通常开立的是境外货币的账户 |
+| 来户账 Vostro Account / Due to Account | 境外银行在本国银行开立的账户，从本国银行角度看是“别人存在我这里的账户”，来账通常以本币开立，也可以境外货币开立 |
 
 ## 💱 1.9 国际汇兑中的资金偿付
 
